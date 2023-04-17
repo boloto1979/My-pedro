@@ -1,4 +1,4 @@
-# Pedro Lima Portfolio
+# Pedro Lima Portfolio (soon I will host the site)
 This is a personal portfolio website created by Pedro Lima. It showcases his skills, projects, and interests.
 
 ## Technologies Used

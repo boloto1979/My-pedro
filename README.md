@@ -1,5 +1,5 @@
 # Pedro Lima Portfolio (soon I will host the site)<br/>
-[![Watch the video](https://i.imgur.com/https://i.ytimg.com/vi/7lWAEkArbWo/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg6ICQofzAP&rs=AOn4CLCVB4lowMEBBT8kazs_2w5wZ3vx7Q)](https://www.youtube.com/watch?v=7lWAEkArbWo)
+[![Watch the video](https://i.ytimg.com/vi/7lWAEkArbWo/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg6ICQofzAP&rs=AOn4CLCVB4lowMEBBT8kazs_2w5wZ3vx7Q)](https://www.youtube.com/watch?v=7lWAEkArbWo)
 <br/>
 This is a personal portfolio website created by Pedro Lima. It showcases his skills, projects, and interests.
 

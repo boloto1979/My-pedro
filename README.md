@@ -1,5 +1,5 @@
 # Pedro Lima Portfolio (soon I will host the site)<br/>
-[![Watch the video](https://youtu.be/7lWAEkArbWo)]<br/>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=7lWAEkArbWo)<br/>
 This is a personal portfolio website created by Pedro Lima. It showcases his skills, projects, and interests.
 
 ## Technologies Used
